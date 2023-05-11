@@ -2,12 +2,18 @@
 
 <div>
     <img src="GOPR0556.JPG" alt="Image 1" width="300" >
-    <img src="GOPR0556.JPG" alt="Image 2" width="300">
+    <img src="PXL_20220806_131139497.jpg" alt="Image 2" width="300">
 </div>
 <div>
-    <img src="GOPR0556.JPG" alt="Image 3" width="300">
+    <img src="PXL_20230306_084624527.jpg" alt="Image 3" width="300">
     <img src="GOPR0556.JPG" alt="Image 4" width="300">
 </div>
+
+Replace image1.jpg, image2.jpg, image3.jpg, and image4.jpg with the URLs or relative paths to your own images. Adjust the width attribute as needed to control the size of the images. The padding-right and padding-left styles create spacing between the columns, and the margin-top style adds some vertical spacing between the rows.
+
+
+
+
 
 I'm an accomplished and innovative Machine Learning Engineer with a passion for developing and delivering state-of-the-art deep learning models. I have a proven track record of success in training computer vision systems and deploying models on edge devices.
 
